@@ -10,5 +10,6 @@
 * Ensino medio completo
 * Solteiro
 * Estou sempre em constante __aprendizado__
-* Entre em contato comigo: [linkedin](https://www.linkedin.com/in/arthur-felipe-20a522175/)
-                           [instagram](https://www.instagram.com/oarthur_felipe_/)
+* Entre em contato comigo: [linkedin](https://www.linkedin.com/in/arthur-felipe-20a522175/) ,
+[instagram](https://www.instagram.com/oarthur_felipe_/) , [fecebook](https://www.facebook.com/arthurfelipe.araujodasilva/)
+* E-mail <arthurfelipe3538@gmail.com>
