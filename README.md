@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
+# Desafio Git/Github DIO
 Desafio de peojeto Git/Github dio
+
+[sintaxe basica markdown] (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
