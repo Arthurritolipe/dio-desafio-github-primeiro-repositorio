@@ -1,5 +1,6 @@
-# Desafio Git/Github DIO
-Desafio de peojeto Git/Github dio
 
-##Links Uteis
-![sintaxe basica markdown] https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+# Desafio Git/Github DIO
+Repositorio criado para do desafio Git/Github dio
+
+## Links Uteis
+[Sintaxe Basica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
